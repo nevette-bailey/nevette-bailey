@@ -1,8 +1,18 @@
-## Hi there lovely devs 💖
-
 ![](https://komarev.com/ghpvc/?username=nevette-bailey&color=cf6d98&style=for-the-badge&label=Profile+Views)
+<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&pause=999999&color=CF6D98&center=true&repeat=false&width=1000&height=75&lines=Hi+there+lovely+devs!+I'm+Nevette!)](https://git.io/typing-svg)
+-->
+<picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=1&pause=999999&color=CF6D98&repeat=false&width=800&height=75&lines=Hi+there+lovely+devs!+I'm+Nevette!" />
+</picture>
 
-### 🐍 Contribution Snake
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=false&font=Fira+Code&pause=99999&center=false&color=CF6D98&width=800&lines=•+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=false&font=Fira+Code&pause=999999&center=false&color=CF6D98&width=800&lines=•+Love+learning+new+things;•+Building+growth+systems+with+heart+💖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=false&font=Fira+Code&pause=999999&center=false&color=CF6D98&width=800&lines=•+Building+growth+systems+with+heart+💖)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=cf6d98&height=2&section=header&%20render" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&section=header&%20render" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&duration=1&pause=999999&color=CF6D98&repeat=false&width=800&lines=Contribution+snake+chomp+chomp+chomp..." />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nevette-bailey/nevette-bailey/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nevette-bailey/nevette-bailey/output/github-contribution-grid-snake.svg">
@@ -14,6 +24,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevette-bailey)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nevette-bailey)
 ![trophy](https://github-profile-trophy.vercel.app/?username=nevette-bailey)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nevette-bailey&show_icons=true&theme=radical&hide_border=true&title_color=cf6d98&icon_color=cf6d98&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nevette-bailey&theme=radical&hide_border=true&stroke=cf6d98&ring=cf6d98&fire=cf6d98&currStreakLabel=cf6d98" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevette-bailey&theme=radical&hide_border=true&title_color=cf6d98&text_color=ffffff&bg_color=0d1117&layout=compact" alt="Top Languages" />
+</div>
 -->
 
 <!--
@@ -30,3 +47,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
