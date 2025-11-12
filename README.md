@@ -1,14 +1,13 @@
+
 ![](https://komarev.com/ghpvc/?username=nevette-bailey&color=cf6d98&style=for-the-badge&label=Profile+Views)
-<!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&pause=999999&color=CF6D98&center=true&repeat=false&width=1000&height=75&lines=Hi+there+lovely+devs!+I'm+Nevette!)](https://git.io/typing-svg)
--->
+
 <picture>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=1&pause=999999&color=CF6D98&repeat=false&width=800&height=75&lines=Hi+there+lovely+devs!+I'm+Nevette!" />
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=false&font=Fira+Code&pause=99999&center=false&color=CF6D98&width=800&lines=•+Full+Stack+Developer)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=false&font=Fira+Code&pause=999999&center=false&color=CF6D98&width=800&lines=•+Love+learning+new+things;•+Building+growth+systems+with+heart+💖)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=false&font=Fira+Code&pause=999999&center=false&color=CF6D98&width=800&lines=•+Building+growth+systems+with+heart+💖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=99999&center=false&color=CF6D98&width=800&lines=•+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=999999&center=false&color=CF6D98&width=800&lines=•+Love+learning+new+things;•+Building+growth+systems+with+heart+💖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=999999&center=false&color=CF6D98&width=800&lines=•+Building+growth+systems+with+heart+💖)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=cf6d98&height=2&section=header&%20render" width="100%">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&section=header&%20render" width="100%">
