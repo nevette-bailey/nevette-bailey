@@ -10,9 +10,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=999999&center=false&color=CF6D98&width=800&lines=•+Building+growth+systems+with+heart+💖)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=cf6d98&height=2&section=header&%20render" width="100%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&section=header&%20render" width="100%">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&duration=1&pause=999999&color=CF6D98&repeat=false&width=800&lines=Contribution+snake+chomp+chomp+chomp..." />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=20&section=header&%20render" width="100%">
 <picture>
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&duration=1&pause=999999&color=CF6D98&repeat=false&width=800&lines=Contribution+snake+chomp+chomp+chomp..." />
+  </div>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nevette-bailey/nevette-bailey/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nevette-bailey/nevette-bailey/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nevette-bailey/nevette-bailey/output/github-contribution-grid-snake.svg">
