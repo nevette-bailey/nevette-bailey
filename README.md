@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi there lovely devs 💖
 
-## 🐍 Contribution Snake
+![](https://komarev.com/ghpvc/?username=nevette-bailey&color=cf6d98&style=for-the-badge&label=Profile+Views)
 
+### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nevette-bailey/nevette-bailey/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nevette-bailey/nevette-bailey/output/github-contribution-grid-snake.svg">
