@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=1&pause=999999&color=CF6D98&repeat=false&width=800&height=75&lines=Hi+there+lovely+devs!+I'm+Nevette!" />
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=99999&center=false&color=CF6D98&width=800&lines=•+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=99999&center=false&color=CF6D98&width=800&lines=•+Senior+Full+Stack+Developer)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=999999&center=false&color=CF6D98&width=800&lines=•+Love+learning+new+things;•+Building+growth+systems+with+heart+💖)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=999999&center=false&color=CF6D98&width=800&lines=•+Building+growth+systems+with+heart+💖)](https://git.io/typing-svg)
 
