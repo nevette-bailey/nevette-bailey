@@ -11,6 +11,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=cf6d98&height=2&section=header&%20render" width="100%">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=20&section=header&%20render" width="100%">
+
+<!--
 <picture>
   <div>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&duration=1&pause=999999&color=CF6D98&repeat=false&width=800&lines=Contribution+snake+chomp+chomp+chomp..." />
@@ -20,7 +22,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nevette-bailey/nevette-bailey/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nevette-bailey)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevette-bailey)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nevette-bailey)
